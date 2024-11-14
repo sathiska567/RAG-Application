@@ -1,0 +1,5 @@
+open cmd
+conda create -p venv python=3.10(google gemini work well)
+conda activate venv/
+pip install -r requirements.txt
+streamlit run app.py

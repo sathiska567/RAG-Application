@@ -1,0 +1,8 @@
+streamlit # - web app
+google-generativeai # - access google generative AI
+python-dotenv # - access google generative AI
+langchain # - access google generative AI
+PyPDF2 # - pdf processing
+chromadb # - access google generative AI
+faiss-cpu # - parallel processing
+langchain_google_genai # - access google generative AI
